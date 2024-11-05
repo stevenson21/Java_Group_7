@@ -1,8 +1,6 @@
 # Java_Group_7
 Energy Management System
 
-Energy Management System
-
 Overview This project is an energy management system developed as a simulation of data logging and metadata management. The system manages log files for different energy sources (e.g., solar, wind, etc.) and charging stations, simulates data exchange, and provides user interaction to search and retrieve log data based on equipment name or date. The system is designed to support the creation, movement, deletion, and archiving of log files and includes metadata tracking of these operations.
 
 Features
